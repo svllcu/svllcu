@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @svllcu
 - 👀 I’m interested in Tech and Finance
 - 🌱 I’m currently learning Business Economics
-- 💞️ I’m looking to collaborate on anything that can grow
 - 📫 How to reach me soavel.luca@proton.me
 
 <!---
